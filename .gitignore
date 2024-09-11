@@ -1,6 +1,7 @@
 # Training data
 bird_or_not/
 cardinals/
+fastbook/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
